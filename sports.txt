@@ -1,0 +1,10 @@
+1. football
+2. cricket
+3. hockey
+4. basketball
+5. golf
+6. tennis
+7. batminton
+8. table tennis
+9. volleyball
+10. squash
